@@ -1,0 +1,7 @@
+   0 > myfirstbashscript.sh
+   1 chmod u+x myfirstbashscript.sh 
+   2 export
+   3 export USER="Cristina"
+   4 nano myfirstbashscript.sh 
+   5 ./myfirstbashscript.sh 
+   6 history > history_23.txt
